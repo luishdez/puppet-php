@@ -1,0 +1,8 @@
+name 'aggressivex-php'
+version '0.5.1'
+source 'git://github.com/aggressivex/puppet-php.git'
+author 'Luis M. Hdez - Aggressivex NetWorks'
+license 'MIT'
+summary 'PHP module'
+description 'PHP module'
+project_page 'http://github.com/aggressivex/puppet-php'
